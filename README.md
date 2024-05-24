@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 I am a PhD student at the Department of Computational and Data Sciences in the Indian Institute of Science, Bangalore. 
 
-🔭 I work on intelligent path planning of autonomous marine agents using Deep Learning | Generataive AI | High Perormance Computing | Reinfocement Learning | Markov Decision Processes
+🔭 I work on intelligent path planning of autonomous marine agents using Deep Learning | Generative AI | High Performance Computing | Reinforcement Learning | Markov Decision Processes
 
 
 ## 🌐 Socials:
@@ -50,11 +50,11 @@ I am a PhD student at the Department of Computational and Data Sciences in the I
 
 ## Efficient GPU-accelerated MDP Solvers for Path Planning
 * [Single Objective MDP Solver](https://github.com/rohit1607/e2e_GPU_DP)
-  - Paper Published in IEEE Journal Of Ocean Engineering
+  - Paper Published in the IEEE Journal Of Ocean Engineering
   - [Link to Paper](https://ieeexplore.ieee.org/abstract/document/9772056)
  
 * [Multi Objective MDP Solver](https://github.com/rohit1607/multi-objective-planning-GPU)
-  - Paper Published in Journal Of Marine Science and Engineering
+  - Paper Published in the Journal Of Marine Science and Engineering
   - [Link to Paper](https://www.mdpi.com/2077-1312/10/4/533) 
 
 ## Physics Driven Q-Learning for Path Planning 
@@ -65,11 +65,11 @@ I am a PhD student at the Department of Computational and Data Sciences in the I
 * [Preimilinary tests](https://github.com/rohit1607/DDDAS_2020_2DHighway)
 
 ## Game Theory
-* [Discrete Persuit Evasion Game as a Stochastic Game](https://github.com/rohit1607/dPEG)
+* [Discrete Pursuit Evasion Game as a Stochastic Game](https://github.com/rohit1607/dPEG)
 
 * [Probabilistic Serial Algorithm - for fairness in resource allocation](https://github.com/rohit1607/GameTheoryMD_MiniProject/tree/main)
 
-## Paritally Observed Markov Decision Processes (POMDP)
+## Partially Observed Markov Decision Processes (POMDP)
 * [The Classic Tiger Problem](https://github.com/rohit1607/POMDP_Tiger_Simulation)
 
 ## Robotics
